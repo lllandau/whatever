@@ -1,0 +1,22 @@
+body {
+    background-color: #ff00d4;
+    color: #1d1d1d;
+    font-size: 20px;   
+
+}
+
+.text-red {
+    color: red;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.bg-yellow  {
+    background-color: yellow; 
+}
+
+.bg-lightgreen  {
+    background-color: lightgreen;
+}
